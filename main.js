@@ -8,10 +8,10 @@ import { createGallery } from "./js/render-functions";
 import { onLoading } from "./js/render-functions";
 import { offLoading } from "./js/render-functions";
 
-const BASE_URL = "https://pixabay.com";
+/* const BASE_URL = "https://pixabay.com";
 const END_POINT = "/api/";
 const keyUser = '43441081-c9c9daac9af91d4227dda2db1';
-
+ */
 // +++++++++++++++++++++++++++++++=======================
 
 const formData = {
